@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973098208997",
+    "project_id": "dexgeo-b3789",
+    "storage_bucket": "dexgeo-b3789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973098208997:android:5493299f33931885130e0c",
+        "android_client_info": {
+          "package_name": "com.marcosoft.dexgeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973098208997-qi0ocd4dkdcqekkpfp32ol54dt9qr18b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marcosoft.dexgeo",
+            "certificate_hash": "843e8229f50efe2224e3a3f3d50daf6137d01a1e"
+          }
+        },
+        {
+          "client_id": "973098208997-61douefvo1s3qstg5v229djheh10jlfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFsfCXbN67K9Fvk4yUO3uXXMdeB-SYuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973098208997-61douefvo1s3qstg5v229djheh10jlfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
